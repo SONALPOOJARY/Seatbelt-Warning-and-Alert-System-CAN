@@ -70,8 +70,8 @@ If the seat is occupied and the seat belt is not fastened, the system activates 
 
 - `Code/` – Arduino CAN transmitter and receiver code  
 - `Documentation/` – Complete project report  
-- `Circuit_Diagrams/` – Architecture, circuit, flowchart  
-- `Images/` – Final hardware setup and output images  
+- `Circuit_Diagrams/` – Flowchart, Hardware diagram(drawn block-style), Class diagram, Use case / user diagram, CAN message flow diagram 
+- `Images/` – Final hardware setup  
 
 ---
 
